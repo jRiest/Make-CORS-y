@@ -3,7 +3,7 @@ A command-line tool to create a local proxy server that will make requests to a 
 
 ## Setup
 
-    npm install -g make-corsy
+    $ npm install -g make-corsy
 
 ## How to Use
 
