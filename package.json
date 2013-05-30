@@ -2,7 +2,7 @@
   "name": "make-corsy",
   "description": "Runs a proxy server that will add custom CORS headers to all responses",
   "author": "Jake Riesterer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "express": "3.2.5",
     "extend": "1.1.3",
@@ -13,7 +13,7 @@
     "url": "https://github.com/jRiest/Make-CORS-y.git"
   },
   "bin": {
-    "make_corsy" : "./main.js"
+    "make_corsy" : "main.js"
   },
   "keywords": ["CORS", "proxy", "server"],
   "preferGlobal": true,

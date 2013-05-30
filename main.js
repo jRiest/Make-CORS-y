@@ -6,7 +6,7 @@ var HEADER_MAP = {
   'expose-headers': 'Access-Control-Expose-Headers',
   'max-age': 'Access-Control-Max-Age'
 };
-var VERSION = '0.0.1';
+var VERSION = '0.0.2';
 
 var proxy = require('./proxy.js'),
     optimist = require('optimist'),
