@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var HEADER_MAP = {
   'allow-credentials': 'Access-Control-Allow-Credentials',
   'allow-headers': 'Access-Control-Allow-Headers',
@@ -6,7 +8,7 @@ var HEADER_MAP = {
   'expose-headers': 'Access-Control-Expose-Headers',
   'max-age': 'Access-Control-Max-Age'
 };
-var VERSION = '0.0.2';
+var VERSION = '0.0.3';
 
 var proxy = require('./proxy.js'),
     optimist = require('optimist'),
