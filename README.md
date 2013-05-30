@@ -22,7 +22,7 @@ A command-line tool to create a local proxy server that will make requests to a 
     --max-age            Access-Control-Max-Age
 
 ## Alternatives
-Want to give something else a try? Check out these other related projects which served as inspiration for this one.
+Want to give something else a try? Check out these other similar projects.
 
 * [tinycors](https://github.com/cburgmer/tinycors)
 * [CORS-Proxy](https://github.com/gr2m/CORS-Proxy/)
